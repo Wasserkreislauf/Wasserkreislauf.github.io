@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://wasserkreislauf.github.io"
+baseURL = "https://wasserkreislauf.github.io/"
 # theme
 theme = "dot"
 # site title
