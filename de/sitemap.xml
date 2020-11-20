@@ -168,6 +168,21 @@
   </url>
   
   <url>
+    <loc>https://wasserkreislauf.github.io/de/team/09_b%C3%B6lsterli/</loc>
+    <lastmod>2020-11-20T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wasserkreislauf.github.io/team/09_b%C3%B6lsterli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://wasserkreislauf.github.io/de/team/09_b%C3%B6lsterli/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wasserkreislauf.github.io/de/teacher/</loc>
     <lastmod>2020-09-30T11:02:05+06:00</lastmod>
     <xhtml:link
@@ -184,7 +199,7 @@
   
   <url>
     <loc>https://wasserkreislauf.github.io/de/</loc>
-    <lastmod>2020-09-30T11:02:05+06:00</lastmod>
+    <lastmod>2020-11-20T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
